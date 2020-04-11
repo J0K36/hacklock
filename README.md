@@ -1,6 +1,6 @@
-<h1 align="center">HackLock v1.0</h1>
+<h1 align="center">HackLock v1.1</h1>
 <p align="center">
-      A new android pattern lock phishing tool for termux users
+      A new android pattern lock phishing tool for termux users by J0k36
 </p>
 
 ## 🔍 ***About hacklock***:
